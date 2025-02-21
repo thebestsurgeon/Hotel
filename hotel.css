@@ -1,0 +1,63 @@
+h1{
+  color:purple;
+  text-align: center;
+  font-family: cursive;
+  text-shadow: 5px 5px 5px red;
+  font-weight: bold;
+  text-transform: Capitalize;
+  font-size:50px;
+}
+h3{
+  color:red;
+  font-weight: bold;
+  font-family: cursive;
+  text-transform: Capitalize;
+  font-size: 30px;
+  text-shadow: 5px 5px 5px gold;
+}
+form{
+  text-align: left;
+  text-transform: Capitalize;
+  
+}
+.a{
+  color:red;
+}
+span{
+  color:purple;
+}
+.b{
+  color:white;
+  border:1px solid gold;
+  background-color:purple;
+  text-align: center;
+  padding:5px 20px;
+  text-decoration: none;
+  margin-left:60px;
+  font-weight: bold;
+ 
+}
+a:hover{
+  color:gold;
+  background-color:green;
+}
+.shape{
+  width:100%;
+  background-color:purple;
+
+}
+h2{
+  color:red;
+  text-transform: capitalize;
+  font-family: cursive;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px purple;
+  text-align: center;
+  font-size: 25px;
+}
+input{
+  border-color:gold;
+  border-radius:10px;
+  height:25px;
+  color:red;
+}
